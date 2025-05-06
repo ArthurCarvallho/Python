@@ -1,0 +1,11 @@
+var = input('Digite algo: ');
+print('É um número?', var.isnumeric());
+print('É alfabético?', var.isalpha());
+print('é alfanumérico?', var.isalnum());
+print('É um espaço? ', var.isspace());
+print('É um caractere? ', var.isascii());
+print('É um decimal? ', var.isdecimal());
+print('É um dígito? ', var.isdigit());
+print('É Maiúscula? ', var.isupper());
+print('É Minúscula? ', var.islower());
+print('É capitalizado? ', var.istitle());
