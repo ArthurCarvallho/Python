@@ -14,6 +14,10 @@ for i in range(len(numeros)):
     resultado += numeros[i]
 print(f'A soma dos números é: {resultado}')
 
+# funçao para somar os vetores
+#  numeros = [2, 4, 6, 8, 10]
+#resultado = sum(numeros)
+#print(f'A soma dos números é: {resultado}')
 
 #inevertendo lista
 
